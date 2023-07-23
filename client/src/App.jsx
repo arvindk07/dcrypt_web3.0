@@ -1,3 +1,5 @@
+import { Navbar, Footer, Services, Transactions, Welcome } from "./components";
+
 const App = () => {
   return (
     <>
